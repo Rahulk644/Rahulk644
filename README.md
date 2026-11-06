@@ -15,7 +15,7 @@ Agents are only as useful as the tools you hand them. So I write the tools.
   token. Python, FastMCP, MIT.
 - **[docmost-mcp](https://github.com/Rahulk644/docmost-mcp)** ·
   Docmost over authenticated Streamable HTTP. 20 tools, default-deny on writes. Rust.
-- **[Meeting-Assitant](https://github.com/Rahulk644/Meeting-Assitant)** ·
+- **[Meeting-Assistant](https://github.com/Rahulk644/Meeting-Assistant)** ·
   Local-first macOS dictation and bot-free meeting capture. No bot joins your call.
   Rust, MIT.
 
